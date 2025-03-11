@@ -1,0 +1,43 @@
+{
+  "hash": "6564aa88",
+  "configHash": "0919b387",
+  "lockfileHash": "a296424e",
+  "browserHash": "ea009df9",
+  "optimized": {},
+  "chunks": {}
+  "browserHash": "cadcd0c9",
+  "optimized": {
+    "jquery": {
+      "src": "../../node_modules/jquery/dist/jquery.js",
+      "file": "jquery.js",
+      "fileHash": "913f974c",
+      "needsInterop": true
+    },
+    "bootstrap/dist/js/bootstrap.bundle.min.js": {
+      "src": "../../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "file": "bootstrap_dist_js_bootstrap__bundle__min__js.js",
+      "fileHash": "14b4fdc0",
+      "needsInterop": true
+    },
+    "admin-lte/dist/js/adminlte.min.js": {
+      "src": "../../node_modules/admin-lte/dist/js/adminlte.min.js",
+      "file": "admin-lte_dist_js_adminlte__min__js.js",
+      "fileHash": "105b8616",
+      "needsInterop": true
+    },
+    "select2": {
+      "src": "../../node_modules/select2/dist/js/select2.js",
+      "file": "select2.js",
+      "fileHash": "f45c1cf1",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-WTCQJA6Y": {
+      "file": "chunk-WTCQJA6Y.js"
+    },
+    "chunk-BUSYA2B4": {
+      "file": "chunk-BUSYA2B4.js"
+    }
+  }
+}
